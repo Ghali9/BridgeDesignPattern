@@ -1,0 +1,14 @@
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.exe
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.deps.json
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.json
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.dev.json
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfo.cs
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.genruntimeconfig.cache

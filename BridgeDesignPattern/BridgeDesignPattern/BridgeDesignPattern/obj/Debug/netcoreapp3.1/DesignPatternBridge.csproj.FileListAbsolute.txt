@@ -1,0 +1,14 @@
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\DesignPatternBridge.exe
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\DesignPatternBridge.deps.json
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\DesignPatternBridge.runtimeconfig.json
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\DesignPatternBridge.runtimeconfig.dev.json
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\DesignPatternBridge.dll
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\DesignPatternBridge.pdb
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\DesignPatternBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\DesignPatternBridge.AssemblyInfoInputs.cache
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\DesignPatternBridge.AssemblyInfo.cs
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\DesignPatternBridge.csproj.CoreCompileInputs.cache
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\DesignPatternBridge.dll
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\DesignPatternBridge.pdb
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\DesignPatternBridge.genruntimeconfig.cache
+C:\Users\Ghali\Source\M18\Genie_logiciel\Bridge\Code\DesignPatternBridge\BridgeDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\DesignPatternBridge.csproj.AssemblyReference.cache
